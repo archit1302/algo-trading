@@ -1,0 +1,16 @@
+Symbol,Company,Sector,Price,MarketCap,PE_Ratio,Dividend_Yield
+AAPL,Apple Inc,Technology,175.84,2800000000000,28.5,0.52
+MSFT,Microsoft Corporation,Technology,378.85,2810000000000,32.1,0.68
+GOOGL,Alphabet Inc,Technology,139.25,1750000000000,25.8,0.00
+AMZN,Amazon.com Inc,Consumer Discretionary,145.88,1520000000000,45.2,0.00
+TSLA,Tesla Inc,Consumer Discretionary,238.45,758000000000,65.4,0.00
+META,Meta Platforms Inc,Communication Services,326.54,830000000000,24.7,0.35
+NVDA,NVIDIA Corporation,Technology,722.48,1780000000000,75.2,0.09
+JPM,JPMorgan Chase & Co,Financials,162.45,475000000000,11.8,2.85
+V,Visa Inc,Financials,268.75,560000000000,33.5,0.75
+WMT,Walmart Inc,Consumer Staples,164.88,535000000000,27.2,1.68
+PG,Procter & Gamble Co,Consumer Staples,155.42,365000000000,25.8,2.41
+JNJ,Johnson & Johnson,Healthcare,162.15,430000000000,16.5,2.92
+XOM,Exxon Mobil Corporation,Energy,112.25,475000000000,14.2,5.48
+BAC,Bank of America Corp,Financials,32.85,270000000000,13.5,2.95
+HD,Home Depot Inc,Consumer Discretionary,358.75,365000000000,24.8,2.32
