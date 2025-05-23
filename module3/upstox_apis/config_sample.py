@@ -1,0 +1,12 @@
+RURL = 'https://127.0.0.1/'
+
+SECRET_KEY = 'ci95dqxtd2'
+TOTP_KEY =  '5864JHGHVNCVVCH'
+
+API_KEY =    'e0172236-4263-4e1c-b33e-798994b7ea53'
+MOBILE_NO =   '9121932132'
+PIN   =      '123232'
+
+
+
+
